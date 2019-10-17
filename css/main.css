@@ -27,6 +27,7 @@ h1 {
 nav ul {
   text-align: center;
   list-style-type: none;
+  padding-inline-start: 0;
 }
 
 nav li {

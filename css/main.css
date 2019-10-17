@@ -42,6 +42,8 @@ nav a {
   text-decoration: none;
   font-family: sans-serif;
   line-height: 1.5;
+  display: inline-block;
+  margin: .3em;
 }
 
 nav a:hover {
